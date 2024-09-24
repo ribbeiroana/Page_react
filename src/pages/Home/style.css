@@ -1,0 +1,25 @@
+header .container {
+ width: 100%;
+ padding-bottom: 60px;
+ display: flex;
+ flex-direction: column;
+ position: relative;
+}
+
+header .container div.elipse-container {
+ width: 90%;
+ height: 250px;
+ margin: 0 auto;
+ display: flex;
+ flex-flow: row wrap;
+ justify-content: space-between;
+ align-items: center;
+}
+
+header .container div.elipse-container div.elipse-left{
+max-width: 600px;
+height: 250px;
+display: flex;
+flex-flow: row;
+position: absolute;
+}
