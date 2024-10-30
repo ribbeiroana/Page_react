@@ -1,22 +1,22 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  background-color: #a0bf8a;
+body{
+  background-color: #000;
 }
 
-p, span, h3, h4 {
+p, span, h3, h4{
   font-family: 'Open Sans', sans-serif;
-  text-shadow: 2px 2px 4px #535151;
   font-size: 1rem;
+  color: #fff;
 }
 
-h1 {
+h1{
   font-family: 'EB Garamond', serif;
   font-size: 3rem;
-  color: #000;
+  color: #ffffff;
   text-shadow: 2px 2px 4px #3b3b3b;
 }
